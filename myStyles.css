@@ -1,0 +1,15 @@
+#heading {
+  font-size: 100px;
+  color: plum;
+  font-family: impact, charcol, sans-serif;
+}
+
+.blueClass {
+  font-size: 70px;
+  color: darkturquoise;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.fontClass {
+  font-size: 25px;
+}
